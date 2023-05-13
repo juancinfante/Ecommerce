@@ -1,4 +1,4 @@
-# Ecommerce con Vanilla javascript
-Utilizando eventos y el DOM
-Agregando productos desde un array de objetos.
-Implementando carrito de compras.
+# Ecommerce con Vanilla Javascript
+- Ecommerce utlizando solamente Javascript Vanilla, trabajando con Arrays y uso del DOM.
+- Implementado carrito de compras. 🛒
+
