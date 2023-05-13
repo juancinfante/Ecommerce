@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-products{
+    display: flex;
+}
+.container-card{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container-card img{
+    width: 100px;
+}
+.mi-carrito-container{
+margin-top: 50px;
+}
+.micarrito{
+    margin-bottom: 30px;
+}
+.divisiones{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid #ccc;
+    font-weight: bold;
+}
+.total{
+    width: 100%;
+    text-align: end;
+    padding-right: 80px;
+}
+
+.button{
+    width: 100%;
+    text-align: end;
+    padding-right: 80px;
+}
